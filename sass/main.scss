@@ -715,40 +715,5 @@ body {
       left: 3.25vmin;
       border-radius: 45%;
     }
-
-    &::after {
-      width: 0.55vmin;
-      height: 1.9vmin;
-      background: $bg-color;
-      top: 0.45vmin;
-      left: 7.7vmin;
-      border-radius: 50%;
-    }
-  }
-
-  &-3 {
-    width: 2.6vmin;
-    height: 1vmin;
-    background: $bg-color;
-    top: -6vmin;
-    left: 64.4vmin;
-    border-radius: 50%;
-
-    &::before {
-      width: 2.6vmin;
-      height: 1vmin;
-      background: $bg-color;
-      top: 4.5vmin;
-      border-radius: 50%;
-    }
-
-    &::after {
-      width: 0.55vmin;
-      height: 1.9vmin;
-      background: $bg-color;
-      top: 1.8vmin;
-      left: -1.25vmin;
-      border-radius: 50%;
-    }
   }
 }
